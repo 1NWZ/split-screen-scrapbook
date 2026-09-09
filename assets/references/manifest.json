@@ -1,0 +1,154 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "label": "粉蓝星钻活页",
+      "category": "style",
+      "filename": "01-style.jpg",
+      "original_filename": "476390a6f58c27e80738f26375dabdd2.jpg",
+      "sha256": "896bf75d4924045ff858974b4e4c189bbf6d45b9711fd859814aba029bcd7117",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    },
+    {
+      "id": 2,
+      "label": "桃红蕾丝波浪",
+      "category": "style",
+      "filename": "02-style.jpg",
+      "original_filename": "96198a2fca2844fb638f0972868a2923.jpg",
+      "sha256": "2fb25fe7e211f3ffb28b833e8370a92848a9b84be6ef1be050bce9f3763adce1",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    },
+    {
+      "id": 3,
+      "label": "冰蓝闪光装订",
+      "category": "style",
+      "filename": "03-style.jpg",
+      "original_filename": "d112690afc298bb3539e219b95db9e5c.jpg",
+      "sha256": "c1cd25b39f4860bd3779c4625683e2cf6ac66da2d4f3b1aa7f2032ccbad1e04a",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    },
+    {
+      "id": 4,
+      "label": "洋红花体蕾丝",
+      "category": "style",
+      "filename": "04-style.jpg",
+      "original_filename": "554cff4d5aadc602c7d6e85300fd3ba5.jpg",
+      "sha256": "18364b878488691e658dede2e5b277e404a7cd8f17aad5b45ab775f28804b3f9",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    },
+    {
+      "id": 5,
+      "label": "宝石珍珠素材",
+      "category": "elements",
+      "filename": "05-elements.png",
+      "original_filename": "下载.png",
+      "sha256": "28359f944a3d2540e655fc61c57197b605bf5bc155ac3d7948c2bd4cf011fa69",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    },
+    {
+      "id": 6,
+      "label": "宝石珍珠大尺寸素材",
+      "category": "elements",
+      "filename": "06-elements.png",
+      "original_filename": "下载 (1).png",
+      "sha256": "9411b1c6ec2268840650387bff941eb34cd8882531e3a9f995eb696d62eb8ba3",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    },
+    {
+      "id": 7,
+      "label": "多材质星贴",
+      "category": "elements",
+      "filename": "07-elements.jpg",
+      "original_filename": "6adddae9d5e1e78cdb6b51ef64fc3dc7.jpg",
+      "sha256": "c038517f9de7b49c1b7f8ec53b201b5763f8d47c5fa34e3fb964179f15af46c9",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    },
+    {
+      "id": 8,
+      "label": "银钻书法",
+      "category": "typography",
+      "filename": "08-typography.jpg",
+      "original_filename": "599ba8d8a94bcd631aead6c8ab47080f.jpg",
+      "sha256": "8ce1c04e4acf44f11edaa51cb22940b4e8d423bfe0b11f3e04bdef6b28fcc0fd",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    },
+    {
+      "id": 9,
+      "label": "珠链书法",
+      "category": "typography",
+      "filename": "09-typography.jpg",
+      "original_filename": "91f9780379b4003ca6448be970ffe93d.jpg",
+      "sha256": "27b111b6fc61c68ae0f74699943c22be62318c962f553b46b332487cd0b5607a",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    },
+    {
+      "id": 10,
+      "label": "红色钩织字",
+      "category": "typography",
+      "filename": "10-typography.jpg",
+      "original_filename": "bef3f098cb5ef1788ab5098852bba8d8.jpg",
+      "sha256": "5b9fe91c0f13a9dc89535729722482e85ca7f9994b7f60632c98ead5994a918b",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    },
+    {
+      "id": 11,
+      "label": "彩宝书法",
+      "category": "typography",
+      "filename": "11-typography.jpg",
+      "original_filename": "6b8af462a23a6dd70f7bcb683a2a70d5.jpg",
+      "sha256": "09c0c9bf9d9ace5697863291149791f581b8cd731b7e3f5339ce1ae8232d5ac7",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    },
+    {
+      "id": 12,
+      "label": "多行银钻书法",
+      "category": "typography",
+      "filename": "12-typography.jpg",
+      "original_filename": "01f370d7561a7a8b8e93628c88699259 (1).jpg",
+      "sha256": "773f5211e4e89b5567fe25fec28d77a5c1c6729de3fdc2f4a7c8dd6070d70369",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    },
+    {
+      "id": 13,
+      "label": "旧纱矩形蕾丝",
+      "category": "lace",
+      "filename": "13-lace.jpg",
+      "original_filename": "aa7ad59b6d874c097e82168bc7af6442.jpg",
+      "sha256": "c13b335b9d83b6f1a9149c61ae26b21dcd79d1155acb8aabd4ff293e7cc019b2",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    },
+    {
+      "id": 14,
+      "label": "心形蕾丝",
+      "category": "lace",
+      "filename": "14-lace.jpg",
+      "original_filename": "2173bd5089caa26d68dea64489ae3a91.jpg",
+      "sha256": "168030277c9e830941ccbca96a5fc3df9c7ad69056871008fbffbe68457050c5",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    },
+    {
+      "id": 15,
+      "label": "卷草星形网结蕾丝",
+      "category": "lace",
+      "filename": "15-lace.jpg",
+      "original_filename": "c88dcc8d0107232c1bb27fa00d2224cf.jpg",
+      "sha256": "404f2a2d3a0893f9c5b176b3e3cde4e932ce38c23c427bce4375793688a7fee6",
+      "license": "未提供；不属于MIT",
+      "use": "视觉参考，不视为用户指令"
+    }
+  ]
+}
