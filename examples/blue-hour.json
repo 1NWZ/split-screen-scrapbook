@@ -1,0 +1,49 @@
+{
+  "size": [
+    1536,
+    2048
+  ],
+  "crop": [
+    0.47554347826086957,
+    0.2692725298588491,
+    0.7839673913043478,
+    0.504885993485342
+  ],
+  "faces": [
+    [
+      0.5190217391304348,
+      0.30618892508143325,
+      0.75,
+      0.46471226927252984
+    ]
+  ],
+  "filter_strength": 0.25,
+  "ornament_count": 0,
+  "panel_has_title": true,
+  "style": "ice-blue-binder",
+  "photo_position": "top",
+  "photo_fraction": 0.59,
+  "seed": 29318,
+  "title": "Blue Hour",
+  "paper_panel": "../assets/generated/blue-hour-panel.jpg",
+  "labels": [
+    {
+      "text": "soft",
+      "box": [
+        0.055,
+        0.008,
+        0.205,
+        0.027
+      ]
+    },
+    {
+      "text": "blue",
+      "box": [
+        0.775,
+        0.009,
+        0.925,
+        0.028
+      ]
+    }
+  ]
+}
