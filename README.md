@@ -44,7 +44,7 @@ python scripts/compose.py --photo /path/to/photo.jpg --recipe recipe.example.jso
 
 ```json
 {"layers":[
-  {"path":"assets/my-lace.png","role":"decoration","box":[0,0,1,0.055]},
+  {"path":"assets/my-lace.png","role":"decoration","box":[0.72,0.76,0.97,0.97]},
   {"path":"assets/my-title.png","role":"title","box":[0.10,0.64,0.90,0.85]}
 ]}
 ```
@@ -68,10 +68,10 @@ python scripts/test_compose.py
 - `references/production.md`：AI素材提示词和分层制作。
 - `references/quality.md`：身份、排版、材质与英文的验收。
 - `scripts/compose.py`：可复现基础合成器。
-- `references/eccentric-collage.md`：实体装订、三种蕾丝与古怪小众下屏的具体构成。
+- `references/eccentric-collage.md`：实体装订、右下角单个干净蕾丝与古怪小众下屏的具体构成。
 - `scripts/merge_edit.py`：局部AI编辑后恢复已认可的上屏原像素。
 - `assets/references/manifest.json`：原图编号、名称、哈希及用途。
 
 代码与本项目编写的文字按 MIT 开源；原始参考图片及外部字体/资产按其各自许可处理，见 `THIRD_PARTY_ASSETS.md`。
 
-新版已加入实作修正：荧光标签、局部过曝、旧纱/心形/异形蕾丝的实际选用、珠链串联与不对称复印拼贴。用户的私人照片与成片不包含在开源包内。`assets/generated/`中的两张无人像AI底板可用于测试素材流程，实际输出应按照片改文字、布局和元素，不能所有用户都套同一张底板。
+新版已加入实作修正：荧光标签、局部过曝、右下角只保留一个蕾丝贴片（三种形态择一），无毛边、毛须和散线、珠链串联与不对称复印拼贴。用户的私人照片与成片不包含在开源包内。`assets/generated/`中的两张无人像AI底板可用于测试素材流程，实际输出应按照片改文字、布局和元素，不能所有用户都套同一张底板。
