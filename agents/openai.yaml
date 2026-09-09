@@ -1,0 +1,4 @@
+interface:
+  display_name: "上下屏复古手账拼贴"
+  short_description: "保留照片五官，以复古人像、纯色肌理、英文材质字和星钻蕾丝制作上下屏拼贴"
+  default_prompt: "使用 $split-screen-scrapbook 将我上传的照片制作成上下屏复古手账拼贴，保留五官并按照片选择合适的参考分支。"
