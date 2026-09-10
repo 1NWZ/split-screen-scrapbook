@@ -8,4 +8,15 @@
 
 ## AI生成测试资产
 
-`assets/generated/blue-hour-panel.jpg`与`assets/generated/daydream-panel.jpg`使用内置imagegen按风格参考生成，内容无人物。它们是制作流程示例，不是原始字体文件；用户人像及局部改图不捆绑到公开仓库。
+`assets/generated/blue-hour-panel.png`与`assets/generated/daydream-panel.png`使用内置imagegen按风格参考生成，内容无人物。它们是制作流程示例，不是原始字体文件；用户人像及局部改图不捆绑到公开仓库。
+
+## 原创开源素材效果库
+
+`assets/library/` 下十张母版于2026-09-10使用内置 imagegen 为本项目原创生成，不包含用户照片、品牌、原参考图人物或原参考图现成文案。它们随本项目按 MIT 许可分发：
+
+- `original-dividers.png`：四种装订与纸缝分界。
+- `original-embellishments.png`：宝石、珍珠、金属星、织物星与小花。
+- `type-rhinestone-glow.png`、`type-pearl-chain-echo.png`、`type-crochet-after.png`、`type-multigem-soft-signal.png`、`type-crystal-blue-hour.png`：五张独立材质字工艺示例；示例单词只用于展示材质，不要求复制到成片。
+- `lace-rectangle-star.png`、`lace-heart-bow.png`、`lace-crescent-orbit.png`：三张独立小尺寸蕾丝贴片参考，分别位于不同留白区域。
+
+这些素材是新的替代库，不表示原始图1–15获得了MIT许可。

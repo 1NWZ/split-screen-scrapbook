@@ -16,7 +16,7 @@
 
 ## 仓库内容与安装
 
-本仓库包含中文指令、风格图谱、可运行脚本、示例配方和两张无人像AI材质底板。原始15张参考图片未提供公开再分发许可，因此不包含在公开仓库；可使用自己的参考或通过清单导入本地素材。个人照片与私人测试成片不上传。
+本仓库包含中文指令、风格图谱、可运行脚本、示例配方、两张无人像AI材质底板，以及十张可随 Skill 分发的原创素材母版。公开素材位于 `assets/library/`：一张装订分界、一张宝石星贴、五张独立材质字、三张独立蕾丝。原始15张参考图片未提供公开再分发许可，因此不包含在公开仓库；它们只保留清单与文字分析。个人照片与私人测试成片不上传。
 
 ```bash
 git clone https://github.com/1NWZ/split-screen-scrapbook.git
@@ -73,6 +73,8 @@ python scripts/test_compose.py
 - `references/eccentric-collage.md`：实体装订、位置可变的单个干净蕾丝与古怪小众下屏的具体构成。
 - `scripts/merge_edit.py`：局部AI编辑后恢复已认可的上屏原像素。
 - `assets/references/manifest.json`：原图编号、名称、哈希及用途。
+- `assets/library/`：公开版实际读取的原创素材效果库。
+- `references/open-source-assets.md`：原创素材的选择、裁切和使用规则。
 
 代码与本项目编写的文字按 MIT 开源；原始参考图片及外部字体/资产按其各自许可处理，见 `THIRD_PARTY_ASSETS.md`。
 
